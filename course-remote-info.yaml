@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/226140/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Mon, 15 Feb 2021 18:41:56 UTC
+update_date: Sun, 21 Feb 2021 10:38:43 UTC
 stages:
 - id: 390
   step: 6173
@@ -16,7 +16,7 @@ stages:
   is_completed: true
 - id: 393
   step: 6176
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Modulo division
@@ -112,6 +112,16 @@ topics:
   3:
   - title: Declaring functions
     theory_id: 4580
+  - title: Functions as objects
+    theory_id: 5991
+  - title: Lambda expressions
+    theory_id: 6154
+  - title: Errors in programs
+    theory_id: 11559
+  - title: What is an exception
+    theory_id: 7243
+  - title: Reading files
+    theory_id: 6351
   - title: Comments
     theory_id: 4406
   - title: Coding style conventions
